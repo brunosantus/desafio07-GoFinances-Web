@@ -82,6 +82,13 @@ export const TableContainer = styled.section`
       &.outcome {
         color: #e83f5b;
       }
+
+      img {
+        width: 17px;
+        height: 17px;
+        //display: flex;
+        //align-items: center;
+      }
     }
 
     td:first-child {
